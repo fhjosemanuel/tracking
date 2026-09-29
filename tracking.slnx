@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="Tracking.Web/Tracking.Web.csproj" Id="e7c3f610-63e9-4ac1-a1e1-9c768e014b59" />
+  <Folder Name="/About/" />
+  <Folder Name="/src/">
+    <Project Path="Tracking.Business/Tracking.Business.csproj" Id="bf9fe198-1488-474b-852d-03ef62305325" />
+    <Project Path="Tracking.Data/Tracking.Data.csproj" Id="f51bd6df-1e67-4fa8-9106-2491b710a2a0" />
+    <Project Path="Tracking.Models/Tracking.Models.csproj" Id="9d7afcb0-549e-458c-a3d0-a6cbe9930598" />
+    <Project Path="Tracking.Web/Tracking.Web.csproj" Id="86636cbb-d87b-4c80-9f07-30d580205f15" />
+  </Folder>
 </Solution>
